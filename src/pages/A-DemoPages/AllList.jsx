@@ -148,7 +148,7 @@ const AllList = () => {
               <EmployeeList />
             ) : list === "Demonstration" ? (
               demoManagerList.map((manager, index) => (
-                <div
+                <div 
                   className="border border-gray shadow rounded-lg p-3 flex justify-between items-center space-y-4 hover:shadow-inner hover:-translate-y-1 transition-all duration-300"
                   key={index}
                   onClick={() => setShow(index)}
