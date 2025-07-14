@@ -36,7 +36,7 @@ const initialFoods = [
     name: 'Grilled Salmon',
     image:
       'https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80',
-    description: 'Salmon fillet grilled to perfection with lemon and herbs.',
+    description: 'Salmonm fillet grilled to perfection with lemon and herbs.',
   },
 ]
 
